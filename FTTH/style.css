@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#imgHome{
+    margin-left: 25%;
+    width: 50%;
+}
+#h1Home{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+}
+
+#btnEntrar{
+    margin-left: 25%;
+    font-size: 30px;
+    width: 50%; 
+}
+
+#a {
+    background-color: green;
+}
+#b{
+    background-color: blue;
+}
